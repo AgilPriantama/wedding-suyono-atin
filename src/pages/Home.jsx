@@ -1,6 +1,7 @@
 import Footer from "@/components/Footer";
 import Galeri from "@/components/Galeri";
 import Hero from "@/components/Hero";
+import Kado from "@/components/Kado";
 import GuestLayout from "@/components/Layouts/GuestLayout";
 import Lokasi from "@/components/Lokasi";
 import Mempelai from "@/components/Mempelai";
@@ -37,6 +38,10 @@ const Home = () => {
 
       <section id="galeri">
         <Galeri />
+      </section>
+      
+      <section id="kado">
+        <Kado />
       </section>
 
       <footer id="footer">

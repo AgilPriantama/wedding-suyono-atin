@@ -7,6 +7,7 @@ import FavoriteTwoToneIcon from '@mui/icons-material/FavoriteTwoTone';
 import CalendarMonthTwoToneIcon from '@mui/icons-material/CalendarMonthTwoTone';
 import LocationOnTwoToneIcon from '@mui/icons-material/LocationOnTwoTone';
 import CollectionsTwoToneIcon from '@mui/icons-material/CollectionsTwoTone';
+import { CardGiftcardTwoTone } from "@mui/icons-material";
 
 /**
  * Daftar link
@@ -38,6 +39,11 @@ const links = [
     title: "Galeri",
     elementId: "galeri",
     IconMenu: ({ ...rest }) => <CollectionsTwoToneIcon {...rest} />,
+  },
+  {
+    title: "Kado",
+    elementId: "kado",
+    IconMenu: ({ ...rest }) => <CardGiftcardTwoTone {...rest} />,
   },
 ];
 
