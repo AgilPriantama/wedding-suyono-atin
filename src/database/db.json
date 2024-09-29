@@ -7,7 +7,7 @@
   "wedding": {
     "akad": {
       "tanggal": "Selasa, 25 Juni 2024",
-      "jam": "08.00 WIB - Selesai",
+      "jam": "",
       "lokasi": "Kediaman Mempelai Pria",
       "alamat": "Kendal kidul, RT.34/RW.14, Jatipuro, Kab. Karanganyar",
       "gmaps": {
@@ -29,7 +29,7 @@
       "pria": {
         "namaDepan": "Suyono",
         "namaBelakang": "(Ngex)",
-        "namaPanggilan": "",
+        "namaPanggilan": "Suyono",
         "orangTua": {
           "keterangan": "Putra Ketiga dari keluarga",
           "pria": "Sukiman",
@@ -40,8 +40,8 @@
       },
       "wanita": {
         "namaDepan": "Atin",
-        "namaBelakang": "Dwi",
-        "namaPanggilan": "Lestari",
+        "namaBelakang": "Dwi Lestari",
+        "namaPanggilan": "Atin",
         "orangTua": {
           "keterangan": "Putri pertama dari keluarga",
           "pria": "Warman",
