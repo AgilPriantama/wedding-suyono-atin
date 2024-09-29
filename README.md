@@ -82,7 +82,7 @@ Kami bermaksud menyelenggarakan acara Akad dan Resepsi Pernikahan.
 Saiful Akbar & Cindy Nadya
 
 Akad Nikah:
-🗓️ Senin, 15 Mei 2023
+🗓️ Senin, 15 oktober 2023
 ⏰ 08.00 WIB s/d Selesai
 🏡 Alamat : Jl. H. Nurleman, RT 002 RW 003, Kel. Benda Baru, Kec. Pamulang, Tangerang Selatan
 
