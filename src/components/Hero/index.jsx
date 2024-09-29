@@ -110,7 +110,7 @@ const Hero = () => {
             height: "100vh",
             width: "100%",
             display: "flex",
-            alignItems: "center",
+            alignItems: "top",
             backgroundImage: ({ palette }) => {
               return `linear-gradient(to bottom, transparent, ${palette.background.default})`;
             },
@@ -128,6 +128,7 @@ const Hero = () => {
                   md: 70,
                   xs: 45,
                 },
+                mt: 5,
                 textShadow: "3px 3px rgba(60, 42, 33, 0.6)",
               }}
             >
@@ -147,7 +148,7 @@ const Hero = () => {
                 },
                 fontSize: {
                   md: "10em",
-                  xs: "6em",
+                  xs: "4em",
                 },
                 textShadow: "5px 5px rgba(60, 42, 33, 0.6)",
               }}
